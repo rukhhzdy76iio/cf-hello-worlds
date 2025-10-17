@@ -37,3 +37,5 @@ Note, when done with the example, make sure you delete your app:
 ~$ cf delete task-runner
 ```
 
+
+<!-- Auto-update: 2025-10-17T10:15:34.207400 -->
